@@ -19,8 +19,8 @@
       "packed": false
     },
     {
-      "name": "model_dva1622-k3.dtb",
-      "url": "https://raw.githubusercontent.com/soufangtuan/ext-rp/main/redpill-dtb-static/releases/model_dva1622-k3.dtb",
+      "name": "model_dva1622-k4.dtb",
+      "url": "https://raw.githubusercontent.com/soufangtuan/ext-rp/main/redpill-dtb-static/releases/model_dva1622-k4.dtb",
       "sha256": "bc06def8813bd8c10615f69353bc0c382384c5d6e39cd166abb571fb3e8d7693",
       "packed": false
     }
