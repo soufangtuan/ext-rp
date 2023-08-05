@@ -3,13 +3,13 @@
     {
       "name": "install_rd.sh",
       "url": "https://raw.githubusercontent.com/soufangtuan/ext-rp/main/redpill-dtb-static/releases/install_rd.sh",
-      "sha256": "3e1388f54469dbd55ce5b2c9927a1dcf85cab7ecb66acf0cf9b66025315dd3d6",
+      "sha256": "cd628a8d427c900ab53125c63fc9ae13f9b82c7e7bd587f7c63a7e9f07dbf945",
       "packed": false
     },
     {
       "name": "install.sh",
       "url": "https://raw.githubusercontent.com/soufangtuan/ext-rp/main/redpill-dtb-static/releases/install.sh",
-      "sha256": "f4ba4033a5d94a4985b4aec22cb3c70a807dd155119e58a185aae249225287d9",
+      "sha256": "731b1b42bb69d9a5d3ae27b4dfe2f35abbe92fbdf6595baea52108658122ae2b",
       "packed": false
     },
     {
