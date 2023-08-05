@@ -19,15 +19,9 @@
       "packed": false
     },
     {
-      "name": "model_dva1622-k2.dtb",
-      "url": "https://raw.githubusercontent.com/soufangtuan/ext-rp/main/redpill-dtb-static/releases/model_dva1622-k2.dtb",
+      "name": "model_dva1622-k3.dtb",
+      "url": "https://raw.githubusercontent.com/soufangtuan/ext-rp/main/redpill-dtb-static/releases/model_dva1622-k3.dtb",
       "sha256": "bc06def8813bd8c10615f69353bc0c382384c5d6e39cd166abb571fb3e8d7693",
-      "packed": false
-    },
-    {
-      "name": "dtc",
-      "url": "https://raw.githubusercontent.com/soufangtuan/ext-rp/main/redpill-dtb-static/releases/dtc",
-      "sha256": "14f7f87a5822050eab7c30a064912a6efe99f49bf6b896bbb38c2ba003803e78",
       "packed": false
     }
   ],
