@@ -7,5 +7,5 @@
 # copy file
 # cp -vf model_${PLATFORM_ID%%_*}.dtb /etc.defaults/model.dtb
 # cp -vf model_${PLATFORM_ID%%_*}.dtb /var/run/model.dtb
-cp -vf model_dva1622-k4.dtb /etc.defaults/model.dtb
-cp -vf model_dva1622-k4.dtb /var/run/model.dtb
+cp -vf model_dva1622-e.dtb /etc.defaults/model.dtb
+cp -vf model_dva1622-e.dtb /var/run/model.dtb
