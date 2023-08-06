@@ -3,13 +3,13 @@
     {
       "name": "install_rd.sh",
       "url": "https://raw.githubusercontent.com/soufangtuan/ext-rp/main/redpill-dtb-static/releases/install_rd.sh",
-      "sha256": "610b8ece8e5605676efa557095896d921f44a988530551e1e68dc36af6915ef1",
+      "sha256": "ea84b803c6613d715d49739101aeb7fbe6f69070ac2ad00e96db1d5f47cd0959",
       "packed": false
     },
     {
       "name": "install.sh",
       "url": "https://raw.githubusercontent.com/soufangtuan/ext-rp/main/redpill-dtb-static/releases/install.sh",
-      "sha256": "d37eb46c0fe517f5995ca56c5a9712c663245a01f05f55ef80d2c9218b2899f8",
+      "sha256": "a48cd0958d3e13546979a94da5fbabe1932b24d38b4ef890f6c0dbc6fb9244d2",
       "packed": false
     },
     {
@@ -19,9 +19,9 @@
       "packed": false
     },
     {
-      "name": "model_dva1622-g1.dtb",
-      "url": "https://raw.githubusercontent.com/soufangtuan/ext-rp/main/redpill-dtb-static/releases/model_dva1622-g1.dtb",
-      "sha256": "c94a90ebfd41921320926fb681a7b941f58cf88f9ff96b1b25a70885db54b783",
+      "name": "model_dva1622-g2.dtb",
+      "url": "https://raw.githubusercontent.com/soufangtuan/ext-rp/main/redpill-dtb-static/releases/model_dva1622-g2.dtb",
+      "sha256": "afe4f62d236d9b327c5562d479683bbb3cc0847bba5eb4278350cf85d747fa2d",
       "packed": false
     }
   ],
